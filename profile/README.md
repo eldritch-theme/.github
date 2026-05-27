@@ -27,137 +27,272 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 
 ### 🎨 Palette
 
+<details>
+<summary>🦑 Cthulhu (Default)</summary>
 <table>
   <tr>
     <th>&nbsp;&nbsp;&nbsp;</th>
     <th>Labels</th>
-    <th>Descriptor</th>
     <th>Hex</th>
     <th>RGB</th>
     <th>HSL</th>
-    <th>CMYK</th>
-    <th>Ansi16</th>
-    <th>Ansi256</th>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/background.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/background.svg" width="12"/></td>
     <td>Sunken Depths Grey</td>
-    <td>Background</td>
     <td><code>#212337</code></td>
     <td><code>rgb(33, 35, 55)</code></td>
-    <td><code>hsl(234.55 deg, 25%, 17.25%)</code></td>
-    <td><code>cmyk(40, 36, 0, 78)</code></td>
-    <td><code>0</code></td>
-    <td><code>236</code>
+    <td><code>hsl(234.55°, 25.0%, 17.25%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/currentline.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/currentline.svg" width="12"/></td>
     <td>Shallow Depths Grey</td>
-    <td>Current Line</td>
     <td><code>#323449</code></td>
     <td><code>rgb(50, 52, 73)</code></td>
-    <td><code>hsl(234.78 deg, 18.7%, 24.12%)</code></td>
-    <td><code>cmyk(32, 42, 0, 5)</code></td>
-    <td><code>8</code></td>
-    <td><code>59</code>
+    <td><code>hsl(234.78°, 18.7%, 24.12%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/foreground.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/foreground.svg" width="12"/></td>
     <td>Lighthouse White</td>
-    <td>Foreground</td>
     <td><code>#ebfafa</code></td>
     <td><code>rgb(235, 250, 250)</code></td>
-    <td><code>hsl(180 deg, 60%, 95.1%)</code></td>
-    <td><code>cmyk(6, 0, 0, 2)</code></td>
-    <td><code>15</code></td>
-    <td><code>231</code>
+    <td><code>hsl(180.0°, 60.0%, 95.1%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/comment.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/comment.svg" width="12"/></td>
     <td>The Old One Purple</td>
-    <td>Comment</td>
     <td><code>#7081d0</code></td>
     <td><code>rgb(112, 129, 208)</code></td>
-    <td><code>hsl(229.38 deg, 50.53%, 62.75%)</code></td>
-    <td><code>cmyk(46, 38, 0, 18)</code></td>
-    <td><code>4</code></td>
-    <td><code>105</code></td>
+    <td><code>hsl(229.38°, 50.53%, 62.75%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/cyan.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/cyan.svg" width="12"/></td>
     <td>Watery Tomb Blue</td>
-    <td>Secondary (Cyan)</td>
     <td><code>#04d1f9</code></td>
     <td><code>rgb(4, 209, 249)</code></td>
-    <td><code>hsl(189.8 deg, 96.84%, 49.61%)</code></td>
-    <td><code>cmyk(98, 16, 0, 2)</code></td>
-    <td><code>14</code></td>
-    <td><code>81</code>
+    <td><code>hsl(189.8°, 96.84%, 49.61%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/green.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/green.svg" width="12"/></td>
     <td>Great Old One Green</td>
-    <td>Primary (Green)</td>
     <td><code>#37f499</code></td>
     <td><code>rgb(55, 244, 153)</code></td>
-    <td><code>hsl(151.11 deg, 89.57%, 58.63%)</code></td>
-    <td><code>cmyk(40, 36, 0, 78)</code></td>
-    <td><code>10</code></td>
-    <td><code>120</code>
+    <td><code>hsl(151.11°, 89.57%, 58.63%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/orange.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/orange.svg" width="12"/></td>
     <td>Dreaming Orange</td>
-    <td>Orange</td>
     <td><code>#f7c67f</code></td>
     <td><code>rgb(247, 198, 127)</code></td>
-    <td><code>hsl(35.5 deg, 88.24%, 73.33%)</code></td>
-    <td><code>cmyk(0, 20, 49, 3)</code></td>
-    <td><code>11</code></td>
-    <td><code>222</code></td>
+    <td><code>hsl(35.5°, 88.24%, 73.33%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/pink.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/pink.svg" width="12"/></td>
     <td>Pustule Pink</td>
-    <td>Pink</td>
     <td><code>#f265b5</code></td>
     <td><code>rgb(242, 101, 181)</code></td>
-    <td><code>hsl(325.96 deg, 84.43%, 67.25%)</code></td>
-    <td><code>cmyk(0, 58, 25, 5)</code></td>
-    <td><code>13</code></td>
-    <td><code>205</code></td>
+    <td><code>hsl(325.96°, 84.43%, 67.25%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/purple.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/purple.svg" width="12"/></td>
     <td>Lovecraft Purple</td>
-    <td>Purple (Accent)</td>
     <td><code>#a48cf2</code></td>
-    <td><code>rgb(164,140,242)</code></td>
-    <td><code>hsl(254.12 deg, 79.69%, 74.9%)</code></td>
-    <td><code>cmyk(32,42,0,5)</code></td>
-    <td><code>5</code></td>
-    <td><code>63</code></td>
+    <td><code>rgb(164, 140, 242)</code></td>
+    <td><code>hsl(254.12°, 79.69%, 74.9%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/red.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/red.svg" width="12"/></td>
     <td>R'lyeh' Red</td>
-    <td>Red (Error)</td>
     <td><code>#f16c75</code></td>
     <td><code>rgb(241, 108, 117)</code></td>
-    <td><code>hsl(355.94 deg, 82.61%, 68.43%)</code></td>
-    <td><code>cmyk(0,55,51,5)</code></td>
-    <td><code>9</code></td>
-    <td><code>203</code></td>
+    <td><code>hsl(355.94°, 82.61%, 68.43%)</code></td>
   </tr>
   <tr>
-    <td><img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/palette/circles/yellow.png" width="23"/></td>
+    <td><img src="assets/palette/cthulhu/circles/yellow.svg" width="12"/></td>
     <td>Gold of Yuggoth</td>
-    <td>Yellow</td>
     <td><code>#f1fc79</code></td>
     <td><code>rgb(241, 252, 121)</code></td>
-    <td><code>hsl(65.04 deg, 95.62%, 73.14%)</code></td>
-    <td><code>cmyk(4, 0, 52, 1)</code></td>
-    <td><code>11</code></td>
-    <td><code>227</code></td>
+    <td><code>hsl(65.04°, 95.62%, 73.14%)</code></td>
   </tr>
 </table>
+</details>
+
+<details>
+<summary>🌀 Abyss (Darker)</summary>
+<table>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;</th>
+    <th>Labels</th>
+    <th>Hex</th>
+    <th>RGB</th>
+    <th>HSL</th>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/background.svg" width="12"/></td>
+    <td>Void Black</td>
+    <td><code>#171928</code></td>
+    <td><code>rgb(23, 25, 40)</code></td>
+    <td><code>hsl(232.94°, 26.98%, 12.35%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/currentline.svg" width="12"/></td>
+    <td>Deep Sea Grey</td>
+    <td><code>#252738</code></td>
+    <td><code>rgb(37, 39, 56)</code></td>
+    <td><code>hsl(233.68°, 20.43%, 18.24%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/foreground.svg" width="12"/></td>
+    <td>Pale Specter</td>
+    <td><code>#d8e6e6</code></td>
+    <td><code>rgb(216, 230, 230)</code></td>
+    <td><code>hsl(180.0°, 21.88%, 87.45%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/comment.svg" width="12"/></td>
+    <td>Forgotten Rune</td>
+    <td><code>#506299</code></td>
+    <td><code>rgb(80, 98, 153)</code></td>
+    <td><code>hsl(225.21°, 31.33%, 45.69%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/cyan.svg" width="12"/></td>
+    <td>Abyssal Teal</td>
+    <td><code>#0396b3</code></td>
+    <td><code>rgb(3, 150, 179)</code></td>
+    <td><code>hsl(189.89°, 96.7%, 35.69%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/green.svg" width="12"/></td>
+    <td>Phosphor Green</td>
+    <td><code>#2dcc82</code></td>
+    <td><code>rgb(45, 204, 130)</code></td>
+    <td><code>hsl(152.08°, 63.86%, 48.82%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/orange.svg" width="12"/></td>
+    <td>Amber Ichor</td>
+    <td><code>#d4a666</code></td>
+    <td><code>rgb(212, 166, 102)</code></td>
+    <td><code>hsl(34.91°, 56.12%, 61.57%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/pink.svg" width="12"/></td>
+    <td>Dreamrot Pink</td>
+    <td><code>#d154a1</code></td>
+    <td><code>rgb(209, 84, 161)</code></td>
+    <td><code>hsl(323.04°, 57.6%, 57.45%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/purple.svg" width="12"/></td>
+    <td>Shadow Violet</td>
+    <td><code>#8b75d9</code></td>
+    <td><code>rgb(139, 117, 217)</code></td>
+    <td><code>hsl(253.2°, 56.82%, 65.49%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/red.svg" width="12"/></td>
+    <td>Crimson Omen</td>
+    <td><code>#cc5860</code></td>
+    <td><code>rgb(204, 88, 96)</code></td>
+    <td><code>hsl(355.86°, 53.21%, 57.25%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/abyss/circles/yellow.svg" width="12"/></td>
+    <td>Sulfur Yellow</td>
+    <td><code>#ccd663</code></td>
+    <td><code>rgb(204, 214, 99)</code></td>
+    <td><code>hsl(65.22°, 58.38%, 61.37%)</code></td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary>🌅 Dusk (Light)</summary>
+<table>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;</th>
+    <th>Labels</th>
+    <th>Hex</th>
+    <th>RGB</th>
+    <th>HSL</th>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/background.svg" width="12"/></td>
+    <td>Pale Shore</td>
+    <td><code>#f0f3f4</code></td>
+    <td><code>rgb(240, 243, 244)</code></td>
+    <td><code>hsl(195.0°, 15.4%, 94.9%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/currentline.svg" width="12"/></td>
+    <td>Coastal Mist</td>
+    <td><code>#e2e6e8</code></td>
+    <td><code>rgb(226, 230, 232)</code></td>
+    <td><code>hsl(200.0°, 11.5%, 89.8%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/foreground.svg" width="12"/></td>
+    <td>Abyssal Ink</td>
+    <td><code>#1e2029</code></td>
+    <td><code>rgb(30, 32, 41)</code></td>
+    <td><code>hsl(229.1°, 15.5%, 13.9%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/comment.svg" width="12"/></td>
+    <td>Faded Rune</td>
+    <td><code>#5b73dc</code></td>
+    <td><code>rgb(91, 115, 220)</code></td>
+    <td><code>hsl(228.8°, 64.8%, 61.0%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/cyan.svg" width="12"/></td>
+    <td>Twilight Teal</td>
+    <td><code>#0ad6ff</code></td>
+    <td><code>rgb(10, 214, 255)</code></td>
+    <td><code>hsl(190.0°, 100.0%, 52.0%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/green.svg" width="12"/></td>
+    <td>Dusk Moss</td>
+    <td><code>#38ff9f</code></td>
+    <td><code>rgb(56, 255, 159)</code></td>
+    <td><code>hsl(151.1°, 100.0%, 61.0%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/orange.svg" width="12"/></td>
+    <td>Ember Glow</td>
+    <td><code>#ffaf4d</code></td>
+    <td><code>rgb(255, 175, 77)</code></td>
+    <td><code>hsl(33.0°, 100.0%, 65.1%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/pink.svg" width="12"/></td>
+    <td>Fading Rose</td>
+    <td><code>#fb5bb6</code></td>
+    <td><code>rgb(251, 91, 182)</code></td>
+    <td><code>hsl(325.9°, 95.2%, 67.1%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/purple.svg" width="12"/></td>
+    <td>Vesper Violet</td>
+    <td><code>#8a69f7</code></td>
+    <td><code>rgb(138, 105, 247)</code></td>
+    <td><code>hsl(253.9°, 89.9%, 69.0%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/red.svg" width="12"/></td>
+    <td>Dusk Crimson</td>
+    <td><code>#fb5b66</code></td>
+    <td><code>rgb(251, 91, 102)</code></td>
+    <td><code>hsl(355.9°, 95.2%, 67.1%)</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/palette/dusk/circles/yellow.svg" width="12"/></td>
+    <td>Last Light Yellow</td>
+    <td><code>#fff952</code></td>
+    <td><code>rgb(255, 249, 82)</code></td>
+    <td><code>hsl(57.9°, 100.0%, 66.1%)</code></td>
+  </tr>
+</table>
+</details>
